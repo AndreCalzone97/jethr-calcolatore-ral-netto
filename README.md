@@ -1,6 +1,6 @@
 # RAL → Netto — Calcolatore stipendio 2026
 
-**Task tecnica — Product Builder @ Jet HR (team Cost-Saving)**
+**Task tecnica — Application for Product Builder @ Jet HR (team Cost-Saving)**
 Andrea Calzone
 
 Prototipo che simula la proiezione di retribuzione netta annuale a partire da una RAL, mostrando ogni voce trattenuta al lordo — per il caso standard richiesto dal brief: impiegato a tempo indeterminato, residente a Milano, senza agevolazioni particolari.
